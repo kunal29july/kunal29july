@@ -3,7 +3,7 @@
 - 🌱 I’m currently Pursuing Mtech from IIIT Lucknow (CS) and working as SDE intern at Pay Nearby Technology.
 - 💞️ I’m skilled in Ds and Algorithms. I have solved around 500 problem on leetcode + gfg + interviewbit and still counting.
 - 💞️ I’m 4 star in python and problem solving on hackerrank .
-- 💞️ I have qualified gate so have sound knowledge of operating system, dbms, ds and algo.
+- 💞️ I have qualified gate as well hence have sound knowledge of operating system, dbms, ds and algo.
 - 👀 I have attched some link below for your reference.
 - 👀 Resume https://drive.google.com/drive/folders/17-a5yeG9LiYX-PjxbId40Qx3uVFn9EaK
 - 👀 Leetcode: https://leetcode.com/kunal29july/
