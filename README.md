@@ -6,6 +6,11 @@
 - 💞️ I have qualified gate so have sound knowledge of operating system, dbms, ds and algo.
 - 👀 I have attched my resume link below for your reference.
 - 👀 Link: https://drive.google.com/drive/folders/17-a5yeG9LiYX-PjxbId40Qx3uVFn9EaK
+- 👀 Leetcode: https://leetcode.com/kunal29july/
+- 👀 GFG: https://auth.geeksforgeeks.org/user/kunalmahajan/profile
+- 👀 Interviewbit: https://www.interviewbit.com/profile/kunal-mahajan_977
+- 👀 Hackerank: https://www.hackerrank.com/kunal29july
+
       
 
 <!---
