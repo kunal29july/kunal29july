@@ -5,7 +5,6 @@
 - 💞️ I’m 4 star in python and problem solving on hackerrank .
 - 💞️ I have qualified gate as well hence have sound knowledge of operating system, dbms, ds and algo.
 - 👀 I have attched some link below for your reference.
-- 👀 Resume https://drive.google.com/drive/folders/17-a5yeG9LiYX-PjxbId40Qx3uVFn9EaK
 - 👀 Leetcode: https://leetcode.com/kunal29july/
 - 👀 GFG: https://auth.geeksforgeeks.org/user/kunalmahajan/profile
 - 👀 Interviewbit: https://www.interviewbit.com/profile/kunal-mahajan_977
