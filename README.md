@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Kunal Mahajan
-- 👀 I’m interested in software development Field.
-- 🌱 I’m currently Pursuing Mtech from IIIT Lucknow (CS) and working as SDE intern at Pay Nearby Technology.
+- 👀 I’m interested in Software Development Field.
+- 💞️ I am currently employed as a Software Engineer at Qualcomm, where I have accumulated approximately 1.5 years of valuable experience.
+- 🌱 I also have prior experience as an SDE Intern at Pay Nearby Technology, where I honed my skills and contributed to the development of innovative solutions."
+- 🌱 My technical skill set encompasses front-end technologies, including HTML, CSS, JavaScript, and React with the Ant Design framework.
+- 🌱 On the back end I specialize in Java, utilizing Spring Boot for robust web  application development, along with a strong emphasis on microservices architecture.
+- 🌱 Additionally, I have proficiency in database management, particularly with MySQL
+- 🌱 My educational background includes a Master's degree in Computer Science from the Indian Institute of Information Technology (IIIT) Lucknow.
 - 💞️ I’m skilled in Ds and Algorithms. I have solved around 500 problem on leetcode + gfg + interviewbit and still counting.
-- 💞️ I’m 4 star in python and problem solving on hackerrank .
 - 💞️ I have qualified gate as well hence have sound knowledge of operating system, dbms, ds and algo.
 - 👀 I have attched some link below for your reference.
 - 👀 Leetcode: https://leetcode.com/kunal29july/
