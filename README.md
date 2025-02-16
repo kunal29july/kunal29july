@@ -6,7 +6,7 @@ A guy who likes to work on Data engineering, Data analytics and Python Backend.
 - 🌱 I also have prior experience as an SDE Intern at Pay Nearby Technology, where I honed my skills and contributed to the development of innovative solutions.
 - 📧 You can reach me at kunal29july@gmail.com
 
-## Technical Skills and Experience 💼
+## Technical Skills 💼
 - **Technical Skills**: Python, SQL, REST API, Web Scraping, Linux, Shell Scripting, C, HTML, CSS, JavaScript
 - **Libraries**: Pandas, Numpy, Matplotlib, Sklearn, SQLAlchemy, BeautifulSoup, Statsmodels, Pydantic, Pytest, Unittest
 - **Frameworks**: FastAPI, Django, Django REST Framework, Ant Design, .NET MVC Framework
@@ -14,13 +14,7 @@ A guy who likes to work on Data engineering, Data analytics and Python Backend.
 - **Data Analysis Tools**: Power BI, Tableau, Excel, Splunk
 - **Coursework**: Data Structures, Algorithms, Data Analytics, Operating Systems, Object-Oriented Programming, DBMS
 
-## Technical Skills and Experience 💼
-- **Programming Languages**: Python, SQL, REST API, Web Scraping, Linux, Shell Scripting, C, HTML, CSS, JavaScript
-- **Libraries**: Pandas, Numpy, Matplotlib, Sklearn, SQLAlchemy, BeautifulSoup, Statsmodels, Pydantic, Pytest, Unittest
-- **Frameworks**: FastAPI, Django, Django REST Framework, Ant Design, .NET MVC Framework
-- **Tools**: Git, Postman, MySQL Workbench, PostgreSQL, Docker, VS Code, Redis, Alembic Migration, GitHub (CI/CD Actions)
-- **Data Analysis Tools**: Power BI, Tableau, Excel, Splunk
-- **Experience**:
+## Experience 💼
   - 📊 Implemented real-time data pipelines and created Power BI dashboards for Qualcomm, resulting in significant power cost savings.
   - ⚙️ Engineered backend data processing solutions using Python, FastAPI, Pandas, and NumPy, improving data retrieval and insertion efficiency.
   - 📝 Developed multiple scripts to read logs and provide insights on license renewal data, saving costs for Qualcomm TBS stakeholders.
