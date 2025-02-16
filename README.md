@@ -1,26 +1,18 @@
 # 👋 Hi, I’m Kunal Mahajan
 
-A guy who likes to work on data engineering, data analytics, and Python backend.
+A guy who likes to work on Data engineering, Data analytics and Python Backend.
 
 - 💼 I am currently employed as a Software Engineer at Qualcomm, where I have accumulated approximately 2.5 years of valuable experience.
 - 🌱 I also have prior experience as an SDE Intern at Pay Nearby Technology, where I honed my skills and contributed to the development of innovative solutions.
-- 🌐 My technical skill set encompasses front-end technologies, including HTML, CSS, JavaScript, and React with the Ant Design framework.
-- 💻 On the back end, I specialize in Python and Java, utilizing frameworks like FastAPI, Django, and Spring Boot for robust web application development, along with a strong emphasis on microservices architecture.
-- 🗄️ Additionally, I have proficiency in database management, particularly with MySQL and PostgreSQL.
-- 🎓 My educational background includes a Master's degree in Computer Science from the Indian Institute of Information Technology (IIIT) Lucknow.
-- 🧠 I’m skilled in Data Structures and Algorithms. I have solved around 500 problems on LeetCode, GeeksforGeeks, and InterviewBit, and I'm still counting.
-- 📚 I have qualified GATE as well, hence have sound knowledge of operating systems, DBMS, data structures, and algorithms.
 - 📧 You can reach me at kunal29july@gmail.com
 
-## Links
-- 👀 LeetCode: https://leetcode.com/kunal29july/
-- 👀 GeeksforGeeks: https://auth.geeksforgeeks.org/user/kunalmahajan/profile
-- 👀 InterviewBit: https://www.interviewbit.com/profile/kunal-mahajan_977
-- 👀 HackerRank: https://www.hackerrank.com/kunal29july
-
-## Education 🎓
-**Indian Institute of Information Technology Lucknow, India**  
-M.Tech in Computer Science (September 2020 – June 2022)
+## Technical Skills and Experience 💼
+- **Technical Skills**: Python, SQL, REST API, Web Scraping, Linux, Shell Scripting, C, HTML, CSS, JavaScript
+- **Libraries**: Pandas, Numpy, Matplotlib, Sklearn, SQLAlchemy, BeautifulSoup, Statsmodels, Pydantic, Pytest, Unittest
+- **Frameworks**: FastAPI, Django, Django REST Framework, Ant Design, .NET MVC Framework
+- **Tools**: Git, Postman, MySQL Workbench, PostgreSQL, Docker, VS Code, Redis, Alembic Migration, GitHub (CI/CD Actions)
+- **Data Analysis Tools**: Power BI, Tableau, Excel, Splunk
+- **Coursework**: Data Structures, Algorithms, Data Analytics, Operating Systems, Object-Oriented Programming, DBMS
 
 ## Technical Skills and Experience 💼
 - **Programming Languages**: Python, SQL, REST API, Web Scraping, Linux, Shell Scripting, C, HTML, CSS, JavaScript
@@ -39,7 +31,11 @@ M.Tech in Computer Science (September 2020 – June 2022)
   - 🔄 Migrated existing admin pages from Web forms to the .NET MVC Framework.
 
 ## Achievements 🏆
-- 🌟 Recognized for outstanding performance at Qualcomm by receiving ThankQ points four times in a year.
 - 📜 Qualified GATE Exam 2020.
 - 🧑‍🔬 Scientist-'B' and Scientist/Technical Assistant Exam in Year 2021.
 - 🧩 Solved around 500 problems on various platforms.
+
+  ## Links
+- 👀 LeetCode: https://leetcode.com/kunal29july/
+- 👀 GeeksforGeeks: https://auth.geeksforgeeks.org/user/kunalmahajan/profile
+- 👀 HackerRank: https://www.hackerrank.com/kunal29july
